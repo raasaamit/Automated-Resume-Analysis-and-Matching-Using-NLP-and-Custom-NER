@@ -1,4 +1,20 @@
-Here’s a **professional and informative `README.md`** tailored to your project **"Automated Resume Analysis and Matching Using NLP and Custom NER"**:
+Certainly! Here's the updated `README.md` section with the **dataset link** included:
+
+---
+
+### 📚 Dataset
+
+This project uses a dataset from **Kaggle**:
+
+* **Dataset Name**: [NER Annotated CVs](https://www.kaggle.com/datasets/mehyarmlaweh/ner-annotated-cvs)
+* **Source**: Kaggle
+* **Usage**: Resumes in PDF format are used for training the custom NER model and for testing resume ranking against job descriptions.
+
+All resumes are anonymized and publicly available under the dataset’s terms of use.
+
+---
+
+Now here is the **full updated `README.md`** with the dataset section integrated:
 
 ---
 
@@ -27,6 +43,18 @@ This project automates the process of resume screening using Natural Language Pr
 - Tesseract OCR (scanned PDFs)
 - scikit-learn (TF-IDF, similarity scoring)
 - Google Colab (CPU-based runtime)
+
+---
+
+## 📚 Dataset
+
+This project uses a dataset from **Kaggle**:
+
+- **Dataset Name**: [NER Annotated CVs](https://www.kaggle.com/datasets/mehyarmlaweh/ner-annotated-cvs)
+- **Source**: Kaggle  
+- **Usage**: Resumes in PDF format are used for training the custom NER model and for testing resume ranking against job descriptions.
+
+All resumes are anonymized and publicly available under the dataset’s terms of use.
 
 ---
 
@@ -111,4 +139,4 @@ This project is open-source and free to use for non-commercial purposes. For com
 ## 🙏 Acknowledgements
 
 * Developed by Amit Dashgupta as part of MSc Dissertation at Dublin Business School
-* Special thanks to [spaCy](https://spacy.io), [Tesseract](https://github.com/tesseract-ocr/tesseract), and [scikit-learn](https://scikit-learn.org/)
+* Special thanks to [spaCy](https://spacy.io), [Tesseract](https://github.com/tesseract-ocr/tesseract), [scikit-learn](https://scikit-learn.org), and [Kaggle](https://www.kaggle.com) for dataset resources
